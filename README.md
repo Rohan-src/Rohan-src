@@ -23,14 +23,21 @@
 - AI Integration
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Rohan-src">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rohan-src&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="Rohan-src's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Rohan-src&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="Rohan-src's GitHub Streak" width="49%" />
-</p>
+## 🚀 Projects
 
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🤖 MailGenius - AI Email Assistant](https://github.com/Rohan-src/MailGenius-AI-Email-Assistant) | AI-powered email reply generator with tone selection, smart suggestions, and Gemini AI integration. | React, Spring Boot, Gemini AI |
+| [🔍 ReUnite - Lost & Found Portal](https://github.com/Rohan-src/ReUnite) | Full-stack campus portal for reporting and reclaiming lost items with role-based access and smart match engine. | Java, Spring Boot, MySQL, Thymeleaf |
+| [☕ Java-DSA](https://github.com/Rohan-src/Java-DSA) | Data structures and algorithms practice focused on logic building and code optimization, solved in Java. | Java |
+
+
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats-alpha-woad-78.vercel.app/api?username=Rohan-src&show_icons=true&theme=radical&count_private=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-alpha-woad-78.vercel.app/api/top-langs/?username=Rohan-src&layout=compact&theme=radical" height="180" alt="languages" />
+</div>
 
 ## 🛠️ Languages & Tools
 
@@ -86,7 +93,6 @@
 
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=Rohan-src)
 <br/>
 
 ## 🔗 Connect with Me
